@@ -1,2 +1,2 @@
 # crm-system
-CRM system - Django + React
+CRM system - Django + React + PostgreSQL
